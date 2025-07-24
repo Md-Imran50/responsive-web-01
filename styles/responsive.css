@@ -48,3 +48,34 @@ nav img{
 .li3{
   color: #8987A1;  
 }
+/* shared style */
+.primary-color{
+  color: #E95A08;
+}
+.descrip-style{
+  font-family: "Inter", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  padding: 0;
+  color: rgba(0, 0, 0, 0.5);
+
+}
+
+/* banner style */
+.banner-title{
+  font-size: 50px;
+  padding: 0;
+}
+.banner{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 226px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+img{
+  width: 570px;
+  height: 335px;
+
+}
+
